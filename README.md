@@ -1,2 +1,1 @@
-# ci-lab
-Learn this thing
+#Learning CI
