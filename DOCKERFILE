@@ -1,0 +1,3 @@
+FROM alpine:3.20
+COPY hello.sh /usr/local/bin/hello
+ENTRYPOINT ["hello"]
